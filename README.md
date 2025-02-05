@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashutosh585/leetcode/tree/master/0001-two-sum) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
