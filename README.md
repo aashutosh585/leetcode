@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -102,9 +103,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
