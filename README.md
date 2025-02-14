@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0684-redundant-connection](https://github.com/aashutosh585/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
