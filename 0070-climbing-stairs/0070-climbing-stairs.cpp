@@ -1,21 +1,15 @@
 class Solution {
 public:
+    int ways(int i,int n, vector<int>&dp){
+        if(i==n) return 1;
+        if(i>n) return 0;
+
+        if(dp[i]!=-1) return dp[i];
+
+        return dp[i]=ways(i+1,n,dp)+ways(i+2,n,dp);
+    }
     int climbStairs(int n) {
-        if(n == 1) return 1;
-        if(n == 2) return 2;
-        
-        int ans = 0;
-  
-        for (int a = 0; a <= n / 2; a++) {
-            int oneSteps = n - 2 * a;      
-            int totalMoves = a + oneSteps; 
-           
-            long long binom = 1;
-            for (int i = 1; i <= a; i++) {
-                binom = binom * (totalMoves - i + 1) / i;
-            }
-            ans += binom;
-        }
-        return ans;
+        vector<int>dp(n,-1);
+        return ways(0,n,dp);
     }
 };
