@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aashutosh585/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/aashutosh585/leetcode/tree/master/0085-maximal-rectangle) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashutosh585/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/aashutosh585/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aashutosh585/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/aashutosh585/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
