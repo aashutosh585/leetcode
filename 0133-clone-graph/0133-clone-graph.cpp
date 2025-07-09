@@ -21,33 +21,59 @@ public:
 
 class Solution {
 public:
+    void dfs(Node* node,unordered_map<Node*,Node*>&mpp){
+        for(auto neighbor:node->neighbors){
+            if(mpp.find(neighbor)==mpp.end()){
+                mpp[neighbor] = new Node(neighbor->val); 
+                dfs(neighbor,mpp);
+            }
+            mpp[node]->neighbors.push_back(mpp[neighbor]);
+            
+        }
+    }
+
     Node* cloneGraph(Node* node) {
         if(!node) return NULL;
 
         unordered_map<Node*,Node*>mpp;
-        queue<Node*>q;
-        q.push(node);
+        mpp[node]=new Node(node->val);
 
-        mpp[node]= new Node(node->val);
+        dfs(node,mpp);
+
+        return mpp[node];
 
 
-        while(!q.empty()){
-            Node* temp = q.front();
-            q.pop();
+
+
+
+
+        // unordered_map<Node*,Node*>mpp;
+        // queue<Node*>q;
+        // q.push(node);
+
+        // mpp[node]= new Node(node->val);
+
+
+        // while(!q.empty()){
+        //     Node* temp = q.front();
+        //     q.pop();
             
 
-            for(auto neighbor:temp->neighbors){
+        //     for(auto neighbor:temp->neighbors){
                 
-                if(mpp.find(neighbor)==mpp.end()){
-                    mpp[neighbor]=new Node(neighbor->val);
-                    q.push(neighbor);
-                }
-                mpp[temp]->neighbors.push_back(mpp[neighbor]);
-                
-            }
-
-
-        }
-        return mpp[node];
+        //         if(mpp.find(neighbor)==mpp.end()){
+        //             mpp[neighbor]=new Node(neighbor->val);
+        //             q.push(neighbor);
+        //         }
+        //         mpp[temp]->neighbors.push_back(mpp[neighbor]);
+ 
+        //     }
+        // }
+        // return mpp[node];
     }
 };
+
+// unordered_map  Old, New Nodes
+// using BFS we travel on Old Graph and at each node create new Node if
+// its Not Present in map
+// add neigbors to it 
