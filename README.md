@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aashutosh585/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aashutosh585/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/aashutosh585/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
