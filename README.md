@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aashutosh585/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/aashutosh585/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aashutosh585/leetcode/tree/master/0070-climbing-stairs) |
+| [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/aashutosh585/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/aashutosh585/leetcode/tree/master/1448-maximum-69-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aashutosh585/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aashutosh585/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/aashutosh585/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/aashutosh585/leetcode/tree/master/1448-maximum-69-number) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
