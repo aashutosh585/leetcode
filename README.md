@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aashutosh585/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aashutosh585/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/aashutosh585/leetcode/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aashutosh585/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/aashutosh585/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
