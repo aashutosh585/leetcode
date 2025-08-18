@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aashutosh585/leetcode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aashutosh585/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aashutosh585/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/aashutosh585/leetcode/tree/master/0120-triangle) |
@@ -270,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
