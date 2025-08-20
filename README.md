@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aashutosh585/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashutosh585/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aashutosh585/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aashutosh585/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/aashutosh585/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/aashutosh585/leetcode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aashutosh585/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aashutosh585/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aashutosh585/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aashutosh585/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aashutosh585/leetcode/tree/master/0216-combination-sum-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
