@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aashutosh585/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aashutosh585/leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/aashutosh585/leetcode/tree/master/0090-subsets-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/aashutosh585/leetcode/tree/master/0085-maximal-rectangle) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aashutosh585/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashutosh585/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aashutosh585/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aashutosh585/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aashutosh585/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aashutosh585/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aashutosh585/leetcode/tree/master/0216-combination-sum-iii) |
