@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aashutosh585/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/aashutosh585/leetcode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Probability and Statistics
 |  |
 | ------- |
