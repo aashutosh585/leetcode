@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aashutosh585/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aashutosh585/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashutosh585/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aashutosh585/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/aashutosh585/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/aashutosh585/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aashutosh585/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashutosh585/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
