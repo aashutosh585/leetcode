@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aashutosh585/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aashutosh585/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/aashutosh585/leetcode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Probability and Statistics
 |  |
