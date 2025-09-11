@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aashutosh585/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/aashutosh585/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aashutosh585/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/aashutosh585/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Merge Sort
 |  |
