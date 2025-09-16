@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/aashutosh585/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/aashutosh585/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aashutosh585/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aashutosh585/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/aashutosh585/leetcode/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/aashutosh585/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/aashutosh585/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aashutosh585/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aashutosh585/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aashutosh585/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aashutosh585/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/aashutosh585/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/aashutosh585/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/aashutosh585/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
