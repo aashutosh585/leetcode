@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/aashutosh585/leetcode/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/aashutosh585/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aashutosh585/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aashutosh585/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
+| [0165-compare-version-numbers](https://github.com/aashutosh585/leetcode/tree/master/0165-compare-version-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Recursion
 |  |
