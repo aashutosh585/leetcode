@@ -1,23 +1,11 @@
 class Solution {
 public:
-    vector<vector<int>>dp;
-    int solve(int i,int l,vector<vector<int>>&arr){
-        int n=arr.size();
-        if(l==n) return 0; 
-        
-        if(i==arr[l].size()) return 0;
+    int minimumTotal(vector<vector<int>>& triangle) {
+        for (int i = triangle.size() - 2; i >= 0; i--)
+            for (int j = 0; j < triangle[i].size(); j++)
+                triangle[i][j] +=
+                    min(triangle[i + 1][j], triangle[i + 1][j + 1]);
 
-        if(dp[l][i]!=-1) return dp[l][i];
-        int way1 = arr[l][i] + solve(i,l+1,arr);
-        int way2 = arr[l][i] + solve(i+1,l+1,arr);
-
-        return dp[l][i] = min(way1,way2);
-
-    }
-    int minimumTotal(vector<vector<int>>& arr) {
-        int n=arr.size();
-        int last = arr[n-1].size();
-        dp.resize(n,vector<int>(last,-1));
-        return solve(0,0,arr);
+        return triangle[0][0];
     }
 };
