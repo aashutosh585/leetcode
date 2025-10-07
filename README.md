@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aashutosh585/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aashutosh585/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2429-design-a-food-rating-system](https://github.com/aashutosh585/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aashutosh585/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/aashutosh585/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/aashutosh585/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/aashutosh585/leetcode/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Probability and Statistics
