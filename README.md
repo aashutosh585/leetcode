@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aashutosh585/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-alternating-groups-ii](https://github.com/aashutosh585/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aashutosh585/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aashutosh585/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/aashutosh585/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aashutosh585/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aashutosh585/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/aashutosh585/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/aashutosh585/leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/aashutosh585/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aashutosh585/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aashutosh585/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Stack
 |  |
