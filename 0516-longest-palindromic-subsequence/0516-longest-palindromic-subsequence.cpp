@@ -21,6 +21,20 @@ public:
     int longestPalindromeSubseq(string s) {
         int n=s.size();
         dp.resize(n+1,vector<int>(n+1,-1));
-       return solve(s,0,n-1);
+    //    return solve(s,0,n-1);
+        for(int i = 0; i < n; i++) dp[i][i] = 1;
+
+   
+        for(int len = 2; len <= n; len++){
+            for(int i = 0; i + len - 1 < n; i++){
+                int j = i + len - 1;
+                if(s[i] == s[j]) dp[i][j] = 2 + (len > 2 ? dp[i+1][j-1] : 0);
+                else dp[i][j] = max(dp[i+1][j], dp[i][j-1]);
+            }
+        }
+
+        return dp[0][n-1];
+
+         
     }
 };
