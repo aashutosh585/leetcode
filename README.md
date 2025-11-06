@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aashutosh585/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/aashutosh585/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aashutosh585/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
 | [0684-redundant-connection](https://github.com/aashutosh585/leetcode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aashutosh585/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aashutosh585/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/aashutosh585/leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -246,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/aashutosh585/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
