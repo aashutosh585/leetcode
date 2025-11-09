@@ -1,0 +1,18 @@
+class Solution {
+public:
+    vector<vector<int>>dp;
+    int solve(int i,int j,string &w1,string &w2){
+        if(i==(int)w1.size()) return w2.size() - j;
+        if(j==(int)w2.size()) return w1.size() - i;
+        if(dp[i][j]!=-1) return dp[i][j];
+
+        if(w1[i]==w2[j]) return dp[i][j]= solve(i+1,j+1,w1,w2);
+        else return dp[i][j]= 1+min({solve(i,j+1,w1,w2),solve(i+1,j,w1,w2),solve(i+1,j+1,w1,w2)});
+    }
+
+    int minDistance(string w1, string w2){
+        int n=w1.size(),m=w2.size();
+        dp.resize(n+1,vector<int>(m+1,-1));
+        return solve(0,0,w1,w2);
+    }
+};
