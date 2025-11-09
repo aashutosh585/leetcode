@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aashutosh585/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashutosh585/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/aashutosh585/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aashutosh585/leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aashutosh585/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/aashutosh585/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/aashutosh585/leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/aashutosh585/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/aashutosh585/leetcode/tree/master/0120-triangle) |
