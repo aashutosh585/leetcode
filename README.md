@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aashutosh585/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashutosh585/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/aashutosh585/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/aashutosh585/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aashutosh585/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aashutosh585/leetcode/tree/master/0115-distinct-subsequences) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aashutosh585/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/aashutosh585/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/aashutosh585/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aashutosh585/leetcode/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/aashutosh585/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/aashutosh585/leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aashutosh585/leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/aashutosh585/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
