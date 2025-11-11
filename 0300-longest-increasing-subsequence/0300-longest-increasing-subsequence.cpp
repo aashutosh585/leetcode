@@ -13,7 +13,16 @@ public:
     }
     int lengthOfLIS(vector<int>& arr) {
         int n=arr.size();
-        dp.resize(n,vector<int>(n+1,-1));
-        return solve(0,arr,-1);
+        dp.resize(n+1,vector<int>(n+1,0));
+        // return solve(0,arr,-1);
+        for(int i=n-1;i>=0;i--){
+            for(int pi=i-1;pi>=-1;pi--){
+                int l=0,r;
+                if(pi==-1 || arr[pi]<arr[i]) l=1+dp[i+1][i+1];
+                r=dp[i+1][pi+1];
+                dp[i][pi+1]=max(r,l);
+            }
+        }
+        return dp[0][0];
     }
 };
