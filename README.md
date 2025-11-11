@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aashutosh585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aashutosh585/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aashutosh585/leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aashutosh585/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aashutosh585/leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aashutosh585/leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/aashutosh585/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/aashutosh585/leetcode/tree/master/0165-compare-version-numbers) |
+| [0474-ones-and-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/aashutosh585/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1006-vowel-spellchecker](https://github.com/aashutosh585/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aashutosh585/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aashutosh585/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aashutosh585/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aashutosh585/leetcode/tree/master/0518-coin-change-ii) |
