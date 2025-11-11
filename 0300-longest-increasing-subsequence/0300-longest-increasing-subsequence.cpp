@@ -13,6 +13,7 @@ public:
     }
     int lengthOfLIS(vector<int>& arr) {
         int n=arr.size();
+        if(n==1) return 1;
         dp.resize(n+1,vector<int>(n+1,0));
         // return solve(0,arr,-1);
         for(int i=n-1;i>=0;i--){
