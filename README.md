@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/aashutosh585/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aashutosh585/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aashutosh585/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aashutosh585/leetcode/tree/master/0090-subsets-ii) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aashutosh585/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aashutosh585/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aashutosh585/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
