@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashutosh585/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
 | [1006-vowel-spellchecker](https://github.com/aashutosh585/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aashutosh585/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/aashutosh585/leetcode/tree/master/1048-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aashutosh585/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aashutosh585/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/aashutosh585/leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aashutosh585/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/aashutosh585/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
