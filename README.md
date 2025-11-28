@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/aashutosh585/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aashutosh585/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1043-partition-array-for-maximum-sum](https://github.com/aashutosh585/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/aashutosh585/leetcode/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aashutosh585/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/aashutosh585/leetcode/tree/master/1013-fibonacci-number) |
+| [1043-partition-array-for-maximum-sum](https://github.com/aashutosh585/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/aashutosh585/leetcode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/aashutosh585/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aashutosh585/leetcode/tree/master/1250-longest-common-subsequence) |
