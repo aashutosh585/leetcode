@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/aashutosh585/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1590-make-sum-divisible-by-p](https://github.com/aashutosh585/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aashutosh585/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aashutosh585/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aashutosh585/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashutosh585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/aashutosh585/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/aashutosh585/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aashutosh585/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aashutosh585/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
