@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aashutosh585/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/aashutosh585/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aashutosh585/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aashutosh585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1975-maximum-matrix-sum](https://github.com/aashutosh585/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aashutosh585/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aashutosh585/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aashutosh585/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/aashutosh585/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/aashutosh585/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aashutosh585/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aashutosh585/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Probability and Statistics
