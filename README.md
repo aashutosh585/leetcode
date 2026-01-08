@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/aashutosh585/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aashutosh585/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/aashutosh585/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/aashutosh585/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aashutosh585/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/aashutosh585/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aashutosh585/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aashutosh585/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/aashutosh585/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aashutosh585/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aashutosh585/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aashutosh585/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
