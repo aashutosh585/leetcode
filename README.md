@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/aashutosh585/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/aashutosh585/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/aashutosh585/leetcode/tree/master/3454-separate-squares-ii) |
 | [3483-alternating-groups-ii](https://github.com/aashutosh585/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashutosh585/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/aashutosh585/leetcode/tree/master/3531-count-covered-buildings) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aashutosh585/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/aashutosh585/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/aashutosh585/leetcode/tree/master/3454-separate-squares-ii) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
@@ -613,8 +615,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3454-separate-squares-ii](https://github.com/aashutosh585/leetcode/tree/master/3454-separate-squares-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aashutosh585/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/aashutosh585/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
