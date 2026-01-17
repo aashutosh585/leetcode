@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aashutosh585/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/aashutosh585/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aashutosh585/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aashutosh585/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aashutosh585/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashutosh585/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/aashutosh585/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aashutosh585/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aashutosh585/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aashutosh585/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashutosh585/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/aashutosh585/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aashutosh585/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aashutosh585/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/aashutosh585/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aashutosh585/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
