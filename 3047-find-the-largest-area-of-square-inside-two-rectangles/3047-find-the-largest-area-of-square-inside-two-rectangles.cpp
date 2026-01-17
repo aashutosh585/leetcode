@@ -15,12 +15,13 @@ public:
                 long long  bre= min(y4,y2)- max(y1,y3);
 
                 long long side=min(len,bre);
-                ans=max(ans,side*side);
+                ans=max(ans,side);
                 
 
             }
         }
-        return ans;
+        long long res=ans*ans;
+        return res;
         
     }
 };
