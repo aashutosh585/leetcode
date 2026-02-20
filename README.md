@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/aashutosh585/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/aashutosh585/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aashutosh585/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/aashutosh585/leetcode/tree/master/0761-special-binary-string) |
 | [1006-vowel-spellchecker](https://github.com/aashutosh585/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/aashutosh585/leetcode/tree/master/1048-longest-string-chain) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aashutosh585/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/aashutosh585/leetcode/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/aashutosh585/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aashutosh585/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aashutosh585/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/aashutosh585/leetcode/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/aashutosh585/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/aashutosh585/leetcode/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/aashutosh585/leetcode/tree/master/1200-minimum-absolute-difference) |
