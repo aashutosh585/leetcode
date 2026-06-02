@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aashutosh585/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/aashutosh585/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aashutosh585/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aashutosh585/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aashutosh585/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/aashutosh585/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/aashutosh585/leetcode/tree/master/3454-separate-squares-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aashutosh585/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/aashutosh585/leetcode/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/aashutosh585/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aashutosh585/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/aashutosh585/leetcode/tree/master/3531-count-covered-buildings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aashutosh585/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aashutosh585/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aashutosh585/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aashutosh585/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Probability and Statistics
 |  |
