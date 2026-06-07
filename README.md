@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aashutosh585/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aashutosh585/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aashutosh585/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aashutosh585/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aashutosh585/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aashutosh585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aashutosh585/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/aashutosh585/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aashutosh585/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aashutosh585/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aashutosh585/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
 | ------- |
