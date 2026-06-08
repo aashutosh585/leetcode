@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aashutosh585/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aashutosh585/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aashutosh585/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashutosh585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aashutosh585/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/aashutosh585/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aashutosh585/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aashutosh585/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aashutosh585/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/aashutosh585/leetcode/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/aashutosh585/leetcode/tree/master/1048-longest-string-chain) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aashutosh585/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aashutosh585/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/aashutosh585/leetcode/tree/master/2540-minimum-common-value) |
