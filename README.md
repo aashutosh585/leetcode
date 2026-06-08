@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/aashutosh585/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/aashutosh585/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/aashutosh585/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aashutosh585/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/aashutosh585/leetcode/tree/master/1020-number-of-enclaves) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/aashutosh585/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/aashutosh585/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/aashutosh585/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aashutosh585/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aashutosh585/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/aashutosh585/leetcode/tree/master/0994-rotting-oranges) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aashutosh585/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aashutosh585/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/aashutosh585/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
 ## Union Find
 |  |
@@ -747,4 +750,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aashutosh585/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aashutosh585/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aashutosh585/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/aashutosh585/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
