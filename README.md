@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/aashutosh585/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aashutosh585/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/aashutosh585/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aashutosh585/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aashutosh585/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aashutosh585/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aashutosh585/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aashutosh585/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/aashutosh585/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aashutosh585/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Probability and Statistics
 |  |
