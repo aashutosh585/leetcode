@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aashutosh585/leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aashutosh585/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/aashutosh585/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aashutosh585/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aashutosh585/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3797-design-spreadsheet](https://github.com/aashutosh585/leetcode/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/aashutosh585/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aashutosh585/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/aashutosh585/leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/aashutosh585/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/aashutosh585/leetcode/tree/master/3447-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/aashutosh585/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
 | ------- |
