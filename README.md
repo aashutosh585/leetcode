@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/aashutosh585/leetcode/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aashutosh585/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/aashutosh585/leetcode/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aashutosh585/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aashutosh585/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aashutosh585/leetcode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aashutosh585/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aashutosh585/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aashutosh585/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aashutosh585/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aashutosh585/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
