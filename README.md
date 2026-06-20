@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aashutosh585/leetcode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aashutosh585/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aashutosh585/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aashutosh585/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
+| [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/aashutosh585/leetcode/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aashutosh585/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aashutosh585/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aashutosh585/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/aashutosh585/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aashutosh585/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/aashutosh585/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aashutosh585/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0867-new-21-game](https://github.com/aashutosh585/leetcode/tree/master/0867-new-21-game) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/aashutosh585/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aashutosh585/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
@@ -708,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aashutosh585/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aashutosh585/leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/aashutosh585/leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aashutosh585/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aashutosh585/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
