@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashutosh585/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aashutosh585/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aashutosh585/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/aashutosh585/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aashutosh585/leetcode/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aashutosh585/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashutosh585/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0126-word-ladder-ii](https://github.com/aashutosh585/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aashutosh585/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/aashutosh585/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aashutosh585/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aashutosh585/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/aashutosh585/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/aashutosh585/leetcode/tree/master/0721-accounts-merge) |
