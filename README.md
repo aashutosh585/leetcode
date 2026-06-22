@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aashutosh585/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aashutosh585/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aashutosh585/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/aashutosh585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/aashutosh585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/aashutosh585/leetcode/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aashutosh585/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aashutosh585/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aashutosh585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/aashutosh585/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/aashutosh585/leetcode/tree/master/1732-find-the-highest-altitude) |
