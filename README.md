@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aashutosh585/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aashutosh585/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aashutosh585/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aashutosh585/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aashutosh585/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aashutosh585/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aashutosh585/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aashutosh585/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aashutosh585/leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/aashutosh585/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aashutosh585/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aashutosh585/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
