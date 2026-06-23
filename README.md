@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aashutosh585/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aashutosh585/leetcode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/aashutosh585/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aashutosh585/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aashutosh585/leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aashutosh585/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aashutosh585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/aashutosh585/leetcode/tree/master/0721-accounts-merge) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aashutosh585/leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/aashutosh585/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aashutosh585/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/aashutosh585/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/aashutosh585/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/aashutosh585/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aashutosh585/leetcode/tree/master/0455-assign-cookies) |
