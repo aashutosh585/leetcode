@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aashutosh585/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aashutosh585/leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/aashutosh585/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/aashutosh585/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aashutosh585/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aashutosh585/leetcode/tree/master/0542-01-matrix) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aashutosh585/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/aashutosh585/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/aashutosh585/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/aashutosh585/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/aashutosh585/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/aashutosh585/leetcode/tree/master/3678-design-task-manager) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aashutosh585/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashutosh585/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/aashutosh585/leetcode/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/aashutosh585/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aashutosh585/leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -839,10 +844,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3454-separate-squares-ii](https://github.com/aashutosh585/leetcode/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aashutosh585/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
