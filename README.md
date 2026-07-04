@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aashutosh585/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aashutosh585/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aashutosh585/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aashutosh585/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/aashutosh585/leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/aashutosh585/leetcode/tree/master/1558-course-schedule-iv) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aashutosh585/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/aashutosh585/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aashutosh585/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aashutosh585/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aashutosh585/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aashutosh585/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aashutosh585/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aashutosh585/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aashutosh585/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aashutosh585/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Shortest Path
 |  |
 | ------- |
