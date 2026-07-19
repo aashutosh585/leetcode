@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aashutosh585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/aashutosh585/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aashutosh585/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/aashutosh585/leetcode/tree/master/0721-accounts-merge) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aashutosh585/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/aashutosh585/leetcode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/aashutosh585/leetcode/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/aashutosh585/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aashutosh585/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/aashutosh585/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/aashutosh585/leetcode/tree/master/1612-avoid-flood-in-the-city) |
